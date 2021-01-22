@@ -1,4 +1,3 @@
 # TABSA SentClass
 
-### Générer les données
-- python generate_sentihood_QA_M.py
+Générer les données: python3 generate_sentihood.py
