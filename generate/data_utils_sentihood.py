@@ -1,5 +1,3 @@
-# Reference: https://github.com/liufly/delayed-memory-update-entnet
-
 from __future__ import absolute_import
 
 import json

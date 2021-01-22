@@ -5,7 +5,7 @@ import argparse
 from torch.utils.data import Dataset, DataLoader
 from torch.optim import AdamW
 from transformers import get_linear_schedule_with_warmup
-from sentiment import SentimentClassifier
+from distilbert_sentiment import SentimentClassifier
 from torch import nn
 import torch
 import numpy as np

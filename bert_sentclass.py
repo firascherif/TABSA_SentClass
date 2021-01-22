@@ -37,7 +37,7 @@ def arg_parser():
 args = arg_parser()
 
 word_to_idx = {"None" : 0, "Positive" : 1, "Negative" : 2}
-data_dir = "data/sentihood/bert-pair/"
+data_dir = "data/sentihood/bert-sentclass/"
 data = pd.read_csv(os.path.join(data_dir, "train_QA_M.tsv"), sep="\t")
 test_data = pd.read_csv(os.path.join(data_dir, "test_QA_M.tsv"), sep="\t")
 
@@ -158,7 +158,7 @@ for epoch_num in range(int(args.num_train_epochs)):
     torch.save(model.state_dict(), ckpt_model_path)
     model.to(device)
     model.eval()
-    with open(os.path.join(args.output_dir, "bert_test_ep_"+str(epoch_num+1)+".txt"), "w") as f_test:
+    with open(os.path.join(args.output_dir, "bert_sentclass_ep_"+str(epoch_num+1)+".txt"), "w") as f_test:
         for step, batch_data in enumerate(test_data_loader):
             input_ids = batch_data["input_ids"].to(device)
             attention_mask = batch_data["attention_mask"].to(device)

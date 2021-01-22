@@ -7,14 +7,9 @@ from sklearn import metrics
 
 
 def get_y_true():
-    """ 
-    Read file to obtain y_true.
-    All of five tasks of Sentihood use the test set of task-BERT-pair-NLI-M to get true labels.
-    All of five tasks of SemEval-2014 use the test set of task-BERT-pair-NLI-M to get true labels.
-    """
-    true_data_file = "data/new_test_QA_M.csv"
+    true_data_file = "data/sentihood/bert-sentclass/test_QA_M.tsv"
 
-    df = pd.read_csv(true_data_file)
+    df = pd.read_csv(true_data_file,sep='\t')
     y_true = []
     for i in range(len(df)):
         label = df['label'][i]
