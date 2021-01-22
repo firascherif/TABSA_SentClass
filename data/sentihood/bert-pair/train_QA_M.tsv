@@ -1199,10 +1199,10 @@ id	sentence1	label	positions
 1274	Try LOCATION1 price , it has great transport connections and has had a lot of development in the last few years west London	None	1 2 
 1274	Try LOCATION1 safety , it has great transport connections and has had a lot of development in the last few years west London	None	1 2 
 1274	Try LOCATION1 transit location , it has great transport connections and has had a lot of development in the last few years west London	Positive	1 2 3 
-1275	Here 's a good guide to walks , with information - and it 's free , with articles and history to read about : LOCATION1 general is still charming , and Katherine Parr lived here with her husband Thomas Seymour , where he `` played '' with the young Princess Elizabeth	Positive	24 25 
-1275	Here 's a good guide to walks , with information - and it 's free , with articles and history to read about : LOCATION1 price is still charming , and Katherine Parr lived here with her husband Thomas Seymour , where he `` played '' with the young Princess Elizabeth	None	24 25 
-1275	Here 's a good guide to walks , with information - and it 's free , with articles and history to read about : LOCATION1 safety is still charming , and Katherine Parr lived here with her husband Thomas Seymour , where he `` played '' with the young Princess Elizabeth	None	24 25 
-1275	Here 's a good guide to walks , with information - and it 's free , with articles and history to read about : LOCATION1 transit location is still charming , and Katherine Parr lived here with her husband Thomas Seymour , where he `` played '' with the young Princess Elizabeth	None	24 25 26 
+1275	Here 's a good guide to walks , with information - and it 's free , with articles and history to read about : LOCATION1 general is still charming , and Katherine Parr lived here with her husband Thomas Seymour , where he `` played `` with the young Princess Elizabeth	Positive	24 25 
+1275	Here 's a good guide to walks , with information - and it 's free , with articles and history to read about : LOCATION1 price is still charming , and Katherine Parr lived here with her husband Thomas Seymour , where he `` played `` with the young Princess Elizabeth	None	24 25 
+1275	Here 's a good guide to walks , with information - and it 's free , with articles and history to read about : LOCATION1 safety is still charming , and Katherine Parr lived here with her husband Thomas Seymour , where he `` played `` with the young Princess Elizabeth	None	24 25 
+1275	Here 's a good guide to walks , with information - and it 's free , with articles and history to read about : LOCATION1 transit location is still charming , and Katherine Parr lived here with her husband Thomas Seymour , where he `` played `` with the young Princess Elizabeth	None	24 25 26 
 1276	True LOCATION1 general is nice , but you are young	Positive	1 2 
 1276	True LOCATION1 price is nice , but you are young	None	1 2 
 1276	True LOCATION1 safety is nice , but you are young	None	1 2 
@@ -1803,10 +1803,10 @@ id	sentence1	label	positions
 1411	LOCATION1 price is right near one corner of LOCATION1	None	0 1 
 1411	LOCATION1 safety is right near one corner of LOCATION1	None	0 1 
 1411	LOCATION1 transit location is right near one corner of LOCATION1	Positive	0 1 2 
-1412	LOCATION1 general is really trendy area , full of young people I 'm always out in LOCATION1 in `` aquam bar '' love that place but there is loads of bars clubs round there	Positive	0 1 
-1412	LOCATION1 price is really trendy area , full of young people I 'm always out in LOCATION1 in `` aquam bar '' love that place but there is loads of bars clubs round there	None	0 1 
-1412	LOCATION1 safety is really trendy area , full of young people I 'm always out in LOCATION1 in `` aquam bar '' love that place but there is loads of bars clubs round there	None	0 1 
-1412	LOCATION1 transit location is really trendy area , full of young people I 'm always out in LOCATION1 in `` aquam bar '' love that place but there is loads of bars clubs round there	None	0 1 2 
+1412	LOCATION1 general is really trendy area , full of young people I 'm always out in LOCATION1 in `` aquam bar `` love that place but there is loads of bars clubs round there	Positive	0 1 
+1412	LOCATION1 price is really trendy area , full of young people I 'm always out in LOCATION1 in `` aquam bar `` love that place but there is loads of bars clubs round there	None	0 1 
+1412	LOCATION1 safety is really trendy area , full of young people I 'm always out in LOCATION1 in `` aquam bar `` love that place but there is loads of bars clubs round there	None	0 1 
+1412	LOCATION1 transit location is really trendy area , full of young people I 'm always out in LOCATION1 in `` aquam bar `` love that place but there is loads of bars clubs round there	None	0 1 2 
 1413	LOCATION1 general is a 20-30 minute drive in rush hour You dont need to look far because LOCATION1 has some of the best streets in London with beautiful houses ( if you can afford them )	None	0 1 
 1413	LOCATION1 price is a 20-30 minute drive in rush hour You dont need to look far because LOCATION1 has some of the best streets in London with beautiful houses ( if you can afford them )	Negative	0 1 
 1413	LOCATION1 safety is a 20-30 minute drive in rush hour You dont need to look far because LOCATION1 has some of the best streets in London with beautiful houses ( if you can afford them )	None	0 1 
@@ -3807,18 +3807,18 @@ id	sentence1	label	positions
 186	LOCATION1 price ( SW4 ) has a very good range of restaurants , 3 tube stations , good rail and bus links and lots of pubs	None	0 1 
 186	LOCATION1 safety ( SW4 ) has a very good range of restaurants , 3 tube stations , good rail and bus links and lots of pubs	None	0 1 
 186	LOCATION1 transit location ( SW4 ) has a very good range of restaurants , 3 tube stations , good rail and bus links and lots of pubs	Positive	0 1 2 
-1870	yeah , LOCATION1 general , South London :0 ) ( `v )	None	2 3 
-1870	yeah , LOCATION1 price , South London :0 ) ( `v )	None	2 3 
-1870	yeah , LOCATION1 safety , South London :0 ) ( `v )	None	2 3 
-1870	yeah , LOCATION1 transit location , South London :0 ) ( `v )	None	2 3 4 
+1870	yeah , LOCATION1 general , South London :0 ) ( ` v )	None	2 3 
+1870	yeah , LOCATION1 price , South London :0 ) ( ` v )	None	2 3 
+1870	yeah , LOCATION1 safety , South London :0 ) ( ` v )	None	2 3 
+1870	yeah , LOCATION1 transit location , South London :0 ) ( ` v )	None	2 3 4 
 1871	If you must live in London I would suggest LOCATION1 general - it has far more life and	Positive	9 10 
 1871	If you must live in London I would suggest LOCATION1 price - it has far more life and	None	9 10 
 1871	If you must live in London I would suggest LOCATION1 safety - it has far more life and	None	9 10 
 1871	If you must live in London I would suggest LOCATION1 transit location - it has far more life and	None	9 10 11 
-1872	From the map you can see that LOCATION1 general is the most `` dangerous '' borough , even though this contains the major tourist attractions of Buckingham Palace , The Houses of Parliament and the famous shopping roads of Oxford and Regents Streets	None	7 8 
-1872	From the map you can see that LOCATION1 price is the most `` dangerous '' borough , even though this contains the major tourist attractions of Buckingham Palace , The Houses of Parliament and the famous shopping roads of Oxford and Regents Streets	None	7 8 
-1872	From the map you can see that LOCATION1 safety is the most `` dangerous '' borough , even though this contains the major tourist attractions of Buckingham Palace , The Houses of Parliament and the famous shopping roads of Oxford and Regents Streets	Negative	7 8 
-1872	From the map you can see that LOCATION1 transit location is the most `` dangerous '' borough , even though this contains the major tourist attractions of Buckingham Palace , The Houses of Parliament and the famous shopping roads of Oxford and Regents Streets	None	7 8 9 
+1872	From the map you can see that LOCATION1 general is the most `` dangerous `` borough , even though this contains the major tourist attractions of Buckingham Palace , The Houses of Parliament and the famous shopping roads of Oxford and Regents Streets	None	7 8 
+1872	From the map you can see that LOCATION1 price is the most `` dangerous `` borough , even though this contains the major tourist attractions of Buckingham Palace , The Houses of Parliament and the famous shopping roads of Oxford and Regents Streets	None	7 8 
+1872	From the map you can see that LOCATION1 safety is the most `` dangerous `` borough , even though this contains the major tourist attractions of Buckingham Palace , The Houses of Parliament and the famous shopping roads of Oxford and Regents Streets	Negative	7 8 
+1872	From the map you can see that LOCATION1 transit location is the most `` dangerous `` borough , even though this contains the major tourist attractions of Buckingham Palace , The Houses of Parliament and the famous shopping roads of Oxford and Regents Streets	None	7 8 9 
 1873	The convenience part is likely also true for the LOCATION1 general location , but if you are living alone I would not feel as comfortable	None	9 10 
 1873	The convenience part is likely also true for the LOCATION1 price location , but if you are living alone I would not feel as comfortable	None	9 10 
 1873	The convenience part is likely also true for the LOCATION1 safety location , but if you are living alone I would not feel as comfortable	Negative	9 10 
@@ -3995,10 +3995,10 @@ id	sentence1	label	positions
 1913	As someone who does not live in LOCATION1 price and compared to other places in London LOCATION1 is a rough area	None	7 8 
 1913	As someone who does not live in LOCATION1 safety and compared to other places in London LOCATION1 is a rough area	Negative	7 8 
 1913	As someone who does not live in LOCATION1 transit location and compared to other places in London LOCATION1 is a rough area	None	7 8 9 
-1914	There are of course some areas that are `` safer '' than others , like in all cities , but I think LOCATION1 general is a nice place	Positive	22 23 
-1914	There are of course some areas that are `` safer '' than others , like in all cities , but I think LOCATION1 price is a nice place	None	22 23 
-1914	There are of course some areas that are `` safer '' than others , like in all cities , but I think LOCATION1 safety is a nice place	None	22 23 
-1914	There are of course some areas that are `` safer '' than others , like in all cities , but I think LOCATION1 transit location is a nice place	None	22 23 24 
+1914	There are of course some areas that are `` safer `` than others , like in all cities , but I think LOCATION1 general is a nice place	Positive	22 23 
+1914	There are of course some areas that are `` safer `` than others , like in all cities , but I think LOCATION1 price is a nice place	None	22 23 
+1914	There are of course some areas that are `` safer `` than others , like in all cities , but I think LOCATION1 safety is a nice place	None	22 23 
+1914	There are of course some areas that are `` safer `` than others , like in all cities , but I think LOCATION1 transit location is a nice place	None	22 23 24 
 1915	LOCATION1 general is a long way out and the transport links are not too brilliant	None	0 1 
 1915	LOCATION1 price is a long way out and the transport links are not too brilliant	None	0 1 
 1915	LOCATION1 safety is a long way out and the transport links are not too brilliant	None	0 1 
@@ -4091,10 +4091,10 @@ id	sentence1	label	positions
 1935	Yes market traders are in LOCATION1 price as are they widespread throughout the UK	None	5 6 
 1935	Yes market traders are in LOCATION1 safety as are they widespread throughout the UK	None	5 6 
 1935	Yes market traders are in LOCATION1 transit location as are they widespread throughout the UK	None	5 6 7 
-1936	The north side of LOCATION1 general has characteristically `` inner London '' deprivation	Negative	4 5 
-1936	The north side of LOCATION1 price has characteristically `` inner London '' deprivation	None	4 5 
-1936	The north side of LOCATION1 safety has characteristically `` inner London '' deprivation	None	4 5 
-1936	The north side of LOCATION1 transit location has characteristically `` inner London '' deprivation	None	4 5 6 
+1936	The north side of LOCATION1 general has characteristically `` inner London `` deprivation	Negative	4 5 
+1936	The north side of LOCATION1 price has characteristically `` inner London `` deprivation	None	4 5 
+1936	The north side of LOCATION1 safety has characteristically `` inner London `` deprivation	None	4 5 
+1936	The north side of LOCATION1 transit location has characteristically `` inner London `` deprivation	None	4 5 6 
 1937	But then the old county of LOCATION1 general still has it 's county hall right slap bang in Parliament Square	None	6 7 
 1937	But then the old county of LOCATION1 price still has it 's county hall right slap bang in Parliament Square	None	6 7 
 1937	But then the old county of LOCATION1 safety still has it 's county hall right slap bang in Parliament Square	None	6 7 
@@ -4851,14 +4851,14 @@ id	sentence1	label	positions
 2113	You could try somewhere like LOCATION1 price - not too far out but not too expensive	Positive	5 6 
 2113	You could try somewhere like LOCATION1 safety - not too far out but not too expensive	None	5 6 
 2113	You could try somewhere like LOCATION1 transit location - not too far out but not too expensive	Positive	5 6 7 
-2114	LOCATION1 general has quite an `` arty '' and bohemian reputation these days	Positive	0 1 
-2114	LOCATION1 price has quite an `` arty '' and bohemian reputation these days	None	0 1 
-2114	LOCATION1 safety has quite an `` arty '' and bohemian reputation these days	None	0 1 
-2114	LOCATION1 transit location has quite an `` arty '' and bohemian reputation these days	None	0 1 2 
-2115	Just saying LOCATION1 general is a bit like saying '' Is Dublin nice ''	None	2 3 
-2115	Just saying LOCATION1 price is a bit like saying '' Is Dublin nice ''	None	2 3 
-2115	Just saying LOCATION1 safety is a bit like saying '' Is Dublin nice ''	None	2 3 
-2115	Just saying LOCATION1 transit location is a bit like saying '' Is Dublin nice ''	None	2 3 4 
+2114	LOCATION1 general has quite an `` arty `` and bohemian reputation these days	Positive	0 1 
+2114	LOCATION1 price has quite an `` arty `` and bohemian reputation these days	None	0 1 
+2114	LOCATION1 safety has quite an `` arty `` and bohemian reputation these days	None	0 1 
+2114	LOCATION1 transit location has quite an `` arty `` and bohemian reputation these days	None	0 1 2 
+2115	Just saying LOCATION1 general is a bit like saying `` Is Dublin nice ``	None	2 3 
+2115	Just saying LOCATION1 price is a bit like saying `` Is Dublin nice ``	None	2 3 
+2115	Just saying LOCATION1 safety is a bit like saying `` Is Dublin nice ``	None	2 3 
+2115	Just saying LOCATION1 transit location is a bit like saying `` Is Dublin nice ``	None	2 3 4 
 2116	I also like LOCATION1 general	Positive	3 4 
 2116	I also like LOCATION1 price	None	3 4 
 2116	I also like LOCATION1 safety	None	3 4 
@@ -5039,10 +5039,10 @@ id	sentence1	label	positions
 2156	LOCATION1 price Common	None	0 1 
 2156	LOCATION1 safety Common	None	0 1 
 2156	LOCATION1 transit location Common	None	0 1 2 
-2157	LOCATION1 general is n't `` moving to London '' LOCATION1 is not London , it 's not cheap	None	0 1 
-2157	LOCATION1 price is n't `` moving to London '' LOCATION1 is not London , it 's not cheap	Negative	0 1 
-2157	LOCATION1 safety is n't `` moving to London '' LOCATION1 is not London , it 's not cheap	None	0 1 
-2157	LOCATION1 transit location is n't `` moving to London '' LOCATION1 is not London , it 's not cheap	Negative	0 1 2 
+2157	LOCATION1 general is n't `` moving to London `` LOCATION1 is not London , it 's not cheap	None	0 1 
+2157	LOCATION1 price is n't `` moving to London `` LOCATION1 is not London , it 's not cheap	Negative	0 1 
+2157	LOCATION1 safety is n't `` moving to London `` LOCATION1 is not London , it 's not cheap	None	0 1 
+2157	LOCATION1 transit location is n't `` moving to London `` LOCATION1 is not London , it 's not cheap	Negative	0 1 2 
 2158	Never mind central , if you want fun go further South and live in LOCATION1 general	None	14 15 
 2158	Never mind central , if you want fun go further South and live in LOCATION1 price	None	14 15 
 2158	Never mind central , if you want fun go further South and live in LOCATION1 safety	None	14 15 
@@ -6263,10 +6263,10 @@ id	sentence1	label	positions
 2438	Check out the parks like LOCATION1 price because they can be nice too	None	5 6 
 2438	Check out the parks like LOCATION1 safety because they can be nice too	None	5 6 
 2438	Check out the parks like LOCATION1 transit location because they can be nice too	None	5 6 7 
-2439	LOCATION1 general in the 18th century was also a village , or a straggler on the edges of town - older people would live there , like `` old aunts ''	None	0 1 
-2439	LOCATION1 price in the 18th century was also a village , or a straggler on the edges of town - older people would live there , like `` old aunts ''	None	0 1 
-2439	LOCATION1 safety in the 18th century was also a village , or a straggler on the edges of town - older people would live there , like `` old aunts ''	None	0 1 
-2439	LOCATION1 transit location in the 18th century was also a village , or a straggler on the edges of town - older people would live there , like `` old aunts ''	None	0 1 2 
+2439	LOCATION1 general in the 18th century was also a village , or a straggler on the edges of town - older people would live there , like `` old aunts ``	None	0 1 
+2439	LOCATION1 price in the 18th century was also a village , or a straggler on the edges of town - older people would live there , like `` old aunts ``	None	0 1 
+2439	LOCATION1 safety in the 18th century was also a village , or a straggler on the edges of town - older people would live there , like `` old aunts ``	None	0 1 
+2439	LOCATION1 transit location in the 18th century was also a village , or a straggler on the edges of town - older people would live there , like `` old aunts ``	None	0 1 2 
 243	I heard that LOCATION1 general was ok but the problem is that I can not find student hostels around there	Positive	3 4 
 243	I heard that LOCATION1 price was ok but the problem is that I can not find student hostels around there	None	3 4 
 243	I heard that LOCATION1 safety was ok but the problem is that I can not find student hostels around there	None	3 4 
@@ -8547,10 +8547,10 @@ id	sentence1	label	positions
 2990	LOCATION2 and LOCATION1 price are better provided with open space and less subject to traffic and airliner noise nuisance	None	2 3 
 2990	LOCATION2 and LOCATION1 safety are better provided with open space and less subject to traffic and airliner noise nuisance	None	2 3 
 2990	LOCATION2 and LOCATION1 transit location are better provided with open space and less subject to traffic and airliner noise nuisance	None	2 3 4 
-2991	I also went to see some flats in cheaper areas such as LOCATION1 general and LOCATION2 - biggest dumps I 've ever seen and very ghetto'y feel	Negative	12 13 
-2991	I also went to see some flats in cheaper areas such as LOCATION1 price and LOCATION2 - biggest dumps I 've ever seen and very ghetto'y feel	Positive	12 13 
-2991	I also went to see some flats in cheaper areas such as LOCATION1 safety and LOCATION2 - biggest dumps I 've ever seen and very ghetto'y feel	None	12 13 
-2991	I also went to see some flats in cheaper areas such as LOCATION1 transit location and LOCATION2 - biggest dumps I 've ever seen and very ghetto'y feel	None	12 13 14 
+2991	I also went to see some flats in cheaper areas such as LOCATION1 general and LOCATION2 - biggest dumps I 've ever seen and very ghetto ' y feel	Negative	12 13 
+2991	I also went to see some flats in cheaper areas such as LOCATION1 price and LOCATION2 - biggest dumps I 've ever seen and very ghetto ' y feel	Positive	12 13 
+2991	I also went to see some flats in cheaper areas such as LOCATION1 safety and LOCATION2 - biggest dumps I 've ever seen and very ghetto ' y feel	None	12 13 
+2991	I also went to see some flats in cheaper areas such as LOCATION1 transit location and LOCATION2 - biggest dumps I 've ever seen and very ghetto ' y feel	None	12 13 14 
 2992	Frankly I 'm not a fan of LOCATION1 general - though LOCATION2 is always a good option , with excellent local schools and wonderful shopping	Negative	7 8 
 2992	Frankly I 'm not a fan of LOCATION1 price - though LOCATION2 is always a good option , with excellent local schools and wonderful shopping	None	7 8 
 2992	Frankly I 'm not a fan of LOCATION1 safety - though LOCATION2 is always a good option , with excellent local schools and wonderful shopping	None	7 8 
@@ -9047,10 +9047,10 @@ id	sentence1	label	positions
 395	It also depends on how far you need to travel for work , not that that 's much of an issue in London LOCATION1 price is undoubtedly the nicest area , but im prob a bit biased	None	23 24 
 395	It also depends on how far you need to travel for work , not that that 's much of an issue in London LOCATION1 safety is undoubtedly the nicest area , but im prob a bit biased	None	23 24 
 395	It also depends on how far you need to travel for work , not that that 's much of an issue in London LOCATION1 transit location is undoubtedly the nicest area , but im prob a bit biased	None	23 24 25 
-396	LOCATION1 general has more `` character ''	Positive	0 1 
-396	LOCATION1 price has more `` character ''	None	0 1 
-396	LOCATION1 safety has more `` character ''	None	0 1 
-396	LOCATION1 transit location has more `` character ''	None	0 1 2 
+396	LOCATION1 general has more `` character ``	Positive	0 1 
+396	LOCATION1 price has more `` character ``	None	0 1 
+396	LOCATION1 safety has more `` character ``	None	0 1 
+396	LOCATION1 transit location has more `` character ``	None	0 1 2 
 397	I would prob have to say that LOCATION1 general is nicer - LOCATION2 is too boxy	Positive	7 8 
 397	I would prob have to say that LOCATION1 price is nicer - LOCATION2 is too boxy	None	7 8 
 397	I would prob have to say that LOCATION1 safety is nicer - LOCATION2 is too boxy	None	7 8 
@@ -10987,10 +10987,10 @@ id	sentence1	label	positions
 834	LOCATION1 price is the hip area of London ~ its where the hip new boutiques are next to cool bars	None	0 1 
 834	LOCATION1 safety is the hip area of London ~ its where the hip new boutiques are next to cool bars	None	0 1 
 834	LOCATION1 transit location is the hip area of London ~ its where the hip new boutiques are next to cool bars	None	0 1 2 
-835	obviously places like LOCATION1 general are `` nice '' too but u need a nice bank balance to afford living there	Positive	3 4 
-835	obviously places like LOCATION1 price are `` nice '' too but u need a nice bank balance to afford living there	Negative	3 4 
-835	obviously places like LOCATION1 safety are `` nice '' too but u need a nice bank balance to afford living there	None	3 4 
-835	obviously places like LOCATION1 transit location are `` nice '' too but u need a nice bank balance to afford living there	None	3 4 5 
+835	obviously places like LOCATION1 general are `` nice `` too but u need a nice bank balance to afford living there	Positive	3 4 
+835	obviously places like LOCATION1 price are `` nice `` too but u need a nice bank balance to afford living there	Negative	3 4 
+835	obviously places like LOCATION1 safety are `` nice `` too but u need a nice bank balance to afford living there	None	3 4 
+835	obviously places like LOCATION1 transit location are `` nice `` too but u need a nice bank balance to afford living there	None	3 4 5 
 836	that LOCATION1 general	None	1 2 
 836	that LOCATION1 price	None	1 2 
 836	that LOCATION1 safety	None	1 2 
@@ -14167,10 +14167,10 @@ id	sentence1	label	positions
 2990	LOCATION2 price and LOCATION1 are better provided with open space and less subject to traffic and airliner noise nuisance	None	0 1 
 2990	LOCATION2 safety and LOCATION1 are better provided with open space and less subject to traffic and airliner noise nuisance	None	0 1 
 2990	LOCATION2 transit location and LOCATION1 are better provided with open space and less subject to traffic and airliner noise nuisance	None	0 1 2 
-2991	I also went to see some flats in cheaper areas such as LOCATION1 and LOCATION2 general - biggest dumps I 've ever seen and very ghetto'y feel	Negative	14 15 
-2991	I also went to see some flats in cheaper areas such as LOCATION1 and LOCATION2 price - biggest dumps I 've ever seen and very ghetto'y feel	Positive	14 15 
-2991	I also went to see some flats in cheaper areas such as LOCATION1 and LOCATION2 safety - biggest dumps I 've ever seen and very ghetto'y feel	None	14 15 
-2991	I also went to see some flats in cheaper areas such as LOCATION1 and LOCATION2 transit location - biggest dumps I 've ever seen and very ghetto'y feel	None	14 15 16 
+2991	I also went to see some flats in cheaper areas such as LOCATION1 and LOCATION2 general - biggest dumps I 've ever seen and very ghetto ' y feel	Negative	14 15 
+2991	I also went to see some flats in cheaper areas such as LOCATION1 and LOCATION2 price - biggest dumps I 've ever seen and very ghetto ' y feel	Positive	14 15 
+2991	I also went to see some flats in cheaper areas such as LOCATION1 and LOCATION2 safety - biggest dumps I 've ever seen and very ghetto ' y feel	None	14 15 
+2991	I also went to see some flats in cheaper areas such as LOCATION1 and LOCATION2 transit location - biggest dumps I 've ever seen and very ghetto ' y feel	None	14 15 16 
 2992	Frankly I 'm not a fan of LOCATION1 - though LOCATION2 general is always a good option , with excellent local schools and wonderful shopping	Positive	10 11 
 2992	Frankly I 'm not a fan of LOCATION1 - though LOCATION2 price is always a good option , with excellent local schools and wonderful shopping	None	10 11 
 2992	Frankly I 'm not a fan of LOCATION1 - though LOCATION2 safety is always a good option , with excellent local schools and wonderful shopping	None	10 11 

@@ -15,10 +15,10 @@ id	sentence1	label	positions
 102	People in LOCATION1 price , wembley or richmond would be a lot more likely to say they live in London	None	2 3 
 102	People in LOCATION1 safety , wembley or richmond would be a lot more likely to say they live in London	None	2 3 
 102	People in LOCATION1 transit location , wembley or richmond would be a lot more likely to say they live in London	None	2 3 4 
-103	I lived in LOCATION1 general for a couple of years but found the people to be not too friendly and didn'r feel safe there	None	3 4 
-103	I lived in LOCATION1 price for a couple of years but found the people to be not too friendly and didn'r feel safe there	None	3 4 
-103	I lived in LOCATION1 safety for a couple of years but found the people to be not too friendly and didn'r feel safe there	Negative	3 4 
-103	I lived in LOCATION1 transit location for a couple of years but found the people to be not too friendly and didn'r feel safe there	None	3 4 5 
+103	I lived in LOCATION1 general for a couple of years but found the people to be not too friendly and didn ' r feel safe there	None	3 4 
+103	I lived in LOCATION1 price for a couple of years but found the people to be not too friendly and didn ' r feel safe there	None	3 4 
+103	I lived in LOCATION1 safety for a couple of years but found the people to be not too friendly and didn ' r feel safe there	Negative	3 4 
+103	I lived in LOCATION1 transit location for a couple of years but found the people to be not too friendly and didn ' r feel safe there	None	3 4 5 
 104	LOCATION1 general has improved in recent years with the opening of the international rail terminal at St Pancras	Positive	0 1 
 104	LOCATION1 price has improved in recent years with the opening of the international rail terminal at St Pancras	None	0 1 
 104	LOCATION1 safety has improved in recent years with the opening of the international rail terminal at St Pancras	None	0 1 
@@ -803,10 +803,10 @@ id	sentence1	label	positions
 282	LOCATION1 price is a good area of London to live in	None	0 1 
 282	LOCATION1 safety is a good area of London to live in	None	0 1 
 282	LOCATION1 transit location is a good area of London to live in	None	0 1 2 
-283	Tel : 0207 403 3761 . Tower of London information | LOCATION2 information | Hotels near Tower Bridge 3 . Buckingham Palace - Popularly known as `` Buck House '' , has served as the Monarch`s permanent London residence since the accession of Queen LOCATION1 general	None	44 45 
-283	Tel : 0207 403 3761 . Tower of London information | LOCATION2 information | Hotels near Tower Bridge 3 . Buckingham Palace - Popularly known as `` Buck House '' , has served as the Monarch`s permanent London residence since the accession of Queen LOCATION1 price	None	44 45 
-283	Tel : 0207 403 3761 . Tower of London information | LOCATION2 information | Hotels near Tower Bridge 3 . Buckingham Palace - Popularly known as `` Buck House '' , has served as the Monarch`s permanent London residence since the accession of Queen LOCATION1 safety	None	44 45 
-283	Tel : 0207 403 3761 . Tower of London information | LOCATION2 information | Hotels near Tower Bridge 3 . Buckingham Palace - Popularly known as `` Buck House '' , has served as the Monarch`s permanent London residence since the accession of Queen LOCATION1 transit location	None	44 45 46 
+283	Tel : 0207 403 3761 . Tower of London information | LOCATION2 information | Hotels near Tower Bridge 3 . Buckingham Palace - Popularly known as `` Buck House '' , has served as the Monarch ` s permanent London residence since the accession of Queen LOCATION1 general	None	46 47 
+283	Tel : 0207 403 3761 . Tower of London information | LOCATION2 information | Hotels near Tower Bridge 3 . Buckingham Palace - Popularly known as `` Buck House '' , has served as the Monarch ` s permanent London residence since the accession of Queen LOCATION1 price	None	46 47 
+283	Tel : 0207 403 3761 . Tower of London information | LOCATION2 information | Hotels near Tower Bridge 3 . Buckingham Palace - Popularly known as `` Buck House '' , has served as the Monarch ` s permanent London residence since the accession of Queen LOCATION1 safety	None	46 47 
+283	Tel : 0207 403 3761 . Tower of London information | LOCATION2 information | Hotels near Tower Bridge 3 . Buckingham Palace - Popularly known as `` Buck House '' , has served as the Monarch ` s permanent London residence since the accession of Queen LOCATION1 transit location	None	46 47 48 
 284	The reputation as London 's red light district is old-fashioned and no longer deserved , and LOCATION1 general is very cosmopolitian and trendy with a high gay population	Positive	16 17 
 284	The reputation as London 's red light district is old-fashioned and no longer deserved , and LOCATION1 price is very cosmopolitian and trendy with a high gay population	None	16 17 
 284	The reputation as London 's red light district is old-fashioned and no longer deserved , and LOCATION1 safety is very cosmopolitian and trendy with a high gay population	None	16 17 
@@ -1895,10 +1895,10 @@ id	sentence1	label	positions
 531	Just a couple of ideas LOCATION1 price is much better than it used to be and is very central	None	5 6 
 531	Just a couple of ideas LOCATION1 safety is much better than it used to be and is very central	None	5 6 
 531	Just a couple of ideas LOCATION1 transit location is much better than it used to be and is very central	Positive	5 6 7 
-532	LOCATION1 general , if you don`t mind George Gallaway	None	0 1 
-532	LOCATION1 price , if you don`t mind George Gallaway	None	0 1 
-532	LOCATION1 safety , if you don`t mind George Gallaway	None	0 1 
-532	LOCATION1 transit location , if you don`t mind George Gallaway	None	0 1 2 
+532	LOCATION1 general , if you don ` t mind George Gallaway	None	0 1 
+532	LOCATION1 price , if you don ` t mind George Gallaway	None	0 1 
+532	LOCATION1 safety , if you don ` t mind George Gallaway	None	0 1 
+532	LOCATION1 transit location , if you don ` t mind George Gallaway	None	0 1 2 
 533	I always go shopping and to the cinema in LOCATION1 general	None	9 10 
 533	I always go shopping and to the cinema in LOCATION1 price	None	9 10 
 533	I always go shopping and to the cinema in LOCATION1 safety	None	9 10 
@@ -2663,10 +2663,10 @@ id	sentence1	label	positions
 706	i have lived in London my whole life and have lived all over ( LOCATION1 price LOCATION2 ) are definitely my favourites	None	14 15 
 706	i have lived in London my whole life and have lived all over ( LOCATION1 safety LOCATION2 ) are definitely my favourites	None	14 15 
 706	i have lived in London my whole life and have lived all over ( LOCATION1 transit location LOCATION2 ) are definitely my favourites	None	14 15 16 
-707	LOCATION1 general and LOCATION2 are my top picks for location , being a `` good '' area full of parks and other nice things , however they 're quite posh and	None	0 1 
-707	LOCATION1 price and LOCATION2 are my top picks for location , being a `` good '' area full of parks and other nice things , however they 're quite posh and	Negative	0 1 
-707	LOCATION1 safety and LOCATION2 are my top picks for location , being a `` good '' area full of parks and other nice things , however they 're quite posh and	None	0 1 
-707	LOCATION1 transit location and LOCATION2 are my top picks for location , being a `` good '' area full of parks and other nice things , however they 're quite posh and	Positive	0 1 2 
+707	LOCATION1 general and LOCATION2 are my top picks for location , being a `` good `` area full of parks and other nice things , however they 're quite posh and	None	0 1 
+707	LOCATION1 price and LOCATION2 are my top picks for location , being a `` good `` area full of parks and other nice things , however they 're quite posh and	Negative	0 1 
+707	LOCATION1 safety and LOCATION2 are my top picks for location , being a `` good `` area full of parks and other nice things , however they 're quite posh and	None	0 1 
+707	LOCATION1 transit location and LOCATION2 are my top picks for location , being a `` good `` area full of parks and other nice things , however they 're quite posh and	Positive	0 1 2 
 708	LOCATION1 general or LOCATION2 if you can afford either of these areas	Positive	0 1 
 708	LOCATION1 price or LOCATION2 if you can afford either of these areas	Negative	0 1 
 708	LOCATION1 safety or LOCATION2 if you can afford either of these areas	None	0 1 
@@ -3055,10 +3055,10 @@ id	sentence1	label	positions
 281	Unlike being a tourist in China , where even the backpackers are kings , my $ 12/hour Canadian job is considered huge over there , the English will bring me down to my knees making my travels there panhandling partly even though I am a security guard in Canada as a profession LOCATION1 to LOCATION2 price takes 45 mins on the train Catch the first north bound helicopter I am moving to London to live with my Girlfriend who is a student there	None	54 55 
 281	Unlike being a tourist in China , where even the backpackers are kings , my $ 12/hour Canadian job is considered huge over there , the English will bring me down to my knees making my travels there panhandling partly even though I am a security guard in Canada as a profession LOCATION1 to LOCATION2 safety takes 45 mins on the train Catch the first north bound helicopter I am moving to London to live with my Girlfriend who is a student there	None	54 55 
 281	Unlike being a tourist in China , where even the backpackers are kings , my $ 12/hour Canadian job is considered huge over there , the English will bring me down to my knees making my travels there panhandling partly even though I am a security guard in Canada as a profession LOCATION1 to LOCATION2 transit location takes 45 mins on the train Catch the first north bound helicopter I am moving to London to live with my Girlfriend who is a student there	None	54 55 56 
-283	Tel : 0207 403 3761 . Tower of London information | LOCATION2 general information | Hotels near Tower Bridge 3 . Buckingham Palace - Popularly known as `` Buck House '' , has served as the Monarch`s permanent London residence since the accession of Queen LOCATION1	None	11 12 
-283	Tel : 0207 403 3761 . Tower of London information | LOCATION2 price information | Hotels near Tower Bridge 3 . Buckingham Palace - Popularly known as `` Buck House '' , has served as the Monarch`s permanent London residence since the accession of Queen LOCATION1	None	11 12 
-283	Tel : 0207 403 3761 . Tower of London information | LOCATION2 safety information | Hotels near Tower Bridge 3 . Buckingham Palace - Popularly known as `` Buck House '' , has served as the Monarch`s permanent London residence since the accession of Queen LOCATION1	None	11 12 
-283	Tel : 0207 403 3761 . Tower of London information | LOCATION2 transit location information | Hotels near Tower Bridge 3 . Buckingham Palace - Popularly known as `` Buck House '' , has served as the Monarch`s permanent London residence since the accession of Queen LOCATION1	None	11 12 13 
+283	Tel : 0207 403 3761 . Tower of London information | LOCATION2 general information | Hotels near Tower Bridge 3 . Buckingham Palace - Popularly known as `` Buck House '' , has served as the Monarch ` s permanent London residence since the accession of Queen LOCATION1	None	11 12 
+283	Tel : 0207 403 3761 . Tower of London information | LOCATION2 price information | Hotels near Tower Bridge 3 . Buckingham Palace - Popularly known as `` Buck House '' , has served as the Monarch ` s permanent London residence since the accession of Queen LOCATION1	None	11 12 
+283	Tel : 0207 403 3761 . Tower of London information | LOCATION2 safety information | Hotels near Tower Bridge 3 . Buckingham Palace - Popularly known as `` Buck House '' , has served as the Monarch ` s permanent London residence since the accession of Queen LOCATION1	None	11 12 
+283	Tel : 0207 403 3761 . Tower of London information | LOCATION2 transit location information | Hotels near Tower Bridge 3 . Buckingham Palace - Popularly known as `` Buck House '' , has served as the Monarch ` s permanent London residence since the accession of Queen LOCATION1	None	11 12 13 
 286	Penthouse , top floor overlooking LOCATION2 general ) 3 ) LOCATION1 ( Selection of stylish 1 bedroom apartments located in stunning and original warehouse conversion ( WAR1 ) It is a fantastic flat with exposed brick walls	None	5 6 
 286	Penthouse , top floor overlooking LOCATION2 price ) 3 ) LOCATION1 ( Selection of stylish 1 bedroom apartments located in stunning and original warehouse conversion ( WAR1 ) It is a fantastic flat with exposed brick walls	None	5 6 
 286	Penthouse , top floor overlooking LOCATION2 safety ) 3 ) LOCATION1 ( Selection of stylish 1 bedroom apartments located in stunning and original warehouse conversion ( WAR1 ) It is a fantastic flat with exposed brick walls	None	5 6 
@@ -3527,10 +3527,10 @@ id	sentence1	label	positions
 706	i have lived in London my whole life and have lived all over ( LOCATION1 LOCATION2 price ) are definitely my favourites	None	15 16 
 706	i have lived in London my whole life and have lived all over ( LOCATION1 LOCATION2 safety ) are definitely my favourites	None	15 16 
 706	i have lived in London my whole life and have lived all over ( LOCATION1 LOCATION2 transit location ) are definitely my favourites	None	15 16 17 
-707	LOCATION1 and LOCATION2 general are my top picks for location , being a `` good '' area full of parks and other nice things , however they 're quite posh and	None	2 3 
-707	LOCATION1 and LOCATION2 price are my top picks for location , being a `` good '' area full of parks and other nice things , however they 're quite posh and	Negative	2 3 
-707	LOCATION1 and LOCATION2 safety are my top picks for location , being a `` good '' area full of parks and other nice things , however they 're quite posh and	None	2 3 
-707	LOCATION1 and LOCATION2 transit location are my top picks for location , being a `` good '' area full of parks and other nice things , however they 're quite posh and	Positive	2 3 4 
+707	LOCATION1 and LOCATION2 general are my top picks for location , being a `` good `` area full of parks and other nice things , however they 're quite posh and	None	2 3 
+707	LOCATION1 and LOCATION2 price are my top picks for location , being a `` good `` area full of parks and other nice things , however they 're quite posh and	Negative	2 3 
+707	LOCATION1 and LOCATION2 safety are my top picks for location , being a `` good `` area full of parks and other nice things , however they 're quite posh and	None	2 3 
+707	LOCATION1 and LOCATION2 transit location are my top picks for location , being a `` good `` area full of parks and other nice things , however they 're quite posh and	Positive	2 3 4 
 708	LOCATION1 or LOCATION2 general if you can afford either of these areas	Positive	2 3 
 708	LOCATION1 or LOCATION2 price if you can afford either of these areas	Negative	2 3 
 708	LOCATION1 or LOCATION2 safety if you can afford either of these areas	None	2 3 

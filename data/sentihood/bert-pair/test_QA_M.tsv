@@ -1431,10 +1431,10 @@ id	sentence1	label	positions
 132	LOCATION1 price ( NW1 ) is ok , but beware of certain council blocks which do have a reputation	None	0 1 
 132	LOCATION1 safety ( NW1 ) is ok , but beware of certain council blocks which do have a reputation	None	0 1 
 132	LOCATION1 transit location ( NW1 ) is ok , but beware of certain council blocks which do have a reputation	None	0 1 2 
-1330	LOCATION1 general is beautiful and you will be highly privileged to live there You 'll be fine LOCATION2 has more restaurants and cafes and has more of an `` urban town '' feel but the three are very close	Positive	0 1 
-1330	LOCATION1 price is beautiful and you will be highly privileged to live there You 'll be fine LOCATION2 has more restaurants and cafes and has more of an `` urban town '' feel but the three are very close	None	0 1 
-1330	LOCATION1 safety is beautiful and you will be highly privileged to live there You 'll be fine LOCATION2 has more restaurants and cafes and has more of an `` urban town '' feel but the three are very close	None	0 1 
-1330	LOCATION1 transit location is beautiful and you will be highly privileged to live there You 'll be fine LOCATION2 has more restaurants and cafes and has more of an `` urban town '' feel but the three are very close	None	0 1 2 
+1330	LOCATION1 general is beautiful and you will be highly privileged to live there You 'll be fine LOCATION2 has more restaurants and cafes and has more of an `` urban town `` feel but the three are very close	Positive	0 1 
+1330	LOCATION1 price is beautiful and you will be highly privileged to live there You 'll be fine LOCATION2 has more restaurants and cafes and has more of an `` urban town `` feel but the three are very close	None	0 1 
+1330	LOCATION1 safety is beautiful and you will be highly privileged to live there You 'll be fine LOCATION2 has more restaurants and cafes and has more of an `` urban town `` feel but the three are very close	None	0 1 
+1330	LOCATION1 transit location is beautiful and you will be highly privileged to live there You 'll be fine LOCATION2 has more restaurants and cafes and has more of an `` urban town `` feel but the three are very close	None	0 1 2 
 1331	Also the areas around LOCATION1 general and LOCATION2 were quite nice	Positive	4 5 
 1331	Also the areas around LOCATION1 price and LOCATION2 were quite nice	None	4 5 
 1331	Also the areas around LOCATION1 safety and LOCATION2 were quite nice	None	4 5 
@@ -2651,10 +2651,10 @@ id	sentence1	label	positions
 264	Just outside the main LOCATION1 price area is very different , though	None	4 5 
 264	Just outside the main LOCATION1 safety area is very different , though	None	4 5 
 264	Just outside the main LOCATION1 transit location area is very different , though	None	4 5 6 
-265	Generally speaking , LOCATION1 general is safer , quieter and more ''white ''	None	3 4 
-265	Generally speaking , LOCATION1 price is safer , quieter and more ''white ''	None	3 4 
-265	Generally speaking , LOCATION1 safety is safer , quieter and more ''white ''	Positive	3 4 
-265	Generally speaking , LOCATION1 transit location is safer , quieter and more ''white ''	None	3 4 5 
+265	Generally speaking , LOCATION1 general is safer , quieter and more `` white ''	None	3 4 
+265	Generally speaking , LOCATION1 price is safer , quieter and more `` white ''	None	3 4 
+265	Generally speaking , LOCATION1 safety is safer , quieter and more `` white ''	Positive	3 4 
+265	Generally speaking , LOCATION1 transit location is safer , quieter and more `` white ''	None	3 4 5 
 266	LOCATION1 general is also a nice place to live its kind of 30 something paradise with restaurants and wine bars , i think if your travelling to cental London ( zone 1 ) then the LOCATION2 is easier , and a bit nicer journey	None	0 1 
 266	LOCATION1 price is also a nice place to live its kind of 30 something paradise with restaurants and wine bars , i think if your travelling to cental London ( zone 1 ) then the LOCATION2 is easier , and a bit nicer journey	None	0 1 
 266	LOCATION1 safety is also a nice place to live its kind of 30 something paradise with restaurants and wine bars , i think if your travelling to cental London ( zone 1 ) then the LOCATION2 is easier , and a bit nicer journey	None	0 1 
@@ -3207,10 +3207,10 @@ id	sentence1	label	positions
 391	try LOCATION1 price	None	1 2 
 391	try LOCATION1 safety	None	1 2 
 391	try LOCATION1 transit location	None	1 2 3 
-392	I`d go for LOCATION1 general , sounds great	Positive	3 4 
-392	I`d go for LOCATION1 price , sounds great	None	3 4 
-392	I`d go for LOCATION1 safety , sounds great	None	3 4 
-392	I`d go for LOCATION1 transit location , sounds great	None	3 4 5 
+392	I ` d go for LOCATION1 general , sounds great	Positive	5 6 
+392	I ` d go for LOCATION1 price , sounds great	None	5 6 
+392	I ` d go for LOCATION1 safety , sounds great	None	5 6 
+392	I ` d go for LOCATION1 transit location , sounds great	None	5 6 7 
 393	Although the house prices in LOCATION1 general will be more expensive to rent ,	None	5 6 
 393	Although the house prices in LOCATION1 price will be more expensive to rent ,	Negative	5 6 
 393	Although the house prices in LOCATION1 safety will be more expensive to rent ,	None	5 6 
@@ -3731,10 +3731,10 @@ id	sentence1	label	positions
 509	It is in the LOCATION1 price	None	4 5 
 509	It is in the LOCATION1 safety	None	4 5 
 509	It is in the LOCATION1 transit location	None	4 5 6 
-50	LOCATION1 general is not a `` London '' in itself , it is simply a town within the north-east surburbs of London	None	0 1 
-50	LOCATION1 price is not a `` London '' in itself , it is simply a town within the north-east surburbs of London	None	0 1 
-50	LOCATION1 safety is not a `` London '' in itself , it is simply a town within the north-east surburbs of London	None	0 1 
-50	LOCATION1 transit location is not a `` London '' in itself , it is simply a town within the north-east surburbs of London	Negative	0 1 2 
+50	LOCATION1 general is not a `` London `` in itself , it is simply a town within the north-east surburbs of London	None	0 1 
+50	LOCATION1 price is not a `` London `` in itself , it is simply a town within the north-east surburbs of London	None	0 1 
+50	LOCATION1 safety is not a `` London `` in itself , it is simply a town within the north-east surburbs of London	None	0 1 
+50	LOCATION1 transit location is not a `` London `` in itself , it is simply a town within the north-east surburbs of London	Negative	0 1 2 
 510	If you go South of the river , a comparable place is LOCATION2 , not LOCATION1 general	None	15 16 
 510	If you go South of the river , a comparable place is LOCATION2 , not LOCATION1 price	None	15 16 
 510	If you go South of the river , a comparable place is LOCATION2 , not LOCATION1 safety	None	15 16 
@@ -4147,10 +4147,10 @@ id	sentence1	label	positions
 602	The third major climbing centre is LOCATION1 price	None	6 7 
 602	The third major climbing centre is LOCATION1 safety	None	6 7 
 602	The third major climbing centre is LOCATION1 transit location	None	6 7 8 
-603	LOCATION1 general was the backdrop to `` Bend it like Beckham ''	None	0 1 
-603	LOCATION1 price was the backdrop to `` Bend it like Beckham ''	None	0 1 
-603	LOCATION1 safety was the backdrop to `` Bend it like Beckham ''	None	0 1 
-603	LOCATION1 transit location was the backdrop to `` Bend it like Beckham ''	None	0 1 2 
+603	LOCATION1 general was the backdrop to `` Bend it like Beckham ``	None	0 1 
+603	LOCATION1 price was the backdrop to `` Bend it like Beckham ``	None	0 1 
+603	LOCATION1 safety was the backdrop to `` Bend it like Beckham ``	None	0 1 
+603	LOCATION1 transit location was the backdrop to `` Bend it like Beckham ``	None	0 1 2 
 604	South of the river , look at LOCATION1 general	Positive	7 8 
 604	South of the river , look at LOCATION1 price	None	7 8 
 604	South of the river , look at LOCATION1 safety	None	7 8 
@@ -4883,10 +4883,10 @@ id	sentence1	label	positions
 770	LOCATION1 price is now a thriving area and lots of money has been spent n regeneration	None	0 1 
 770	LOCATION1 safety is now a thriving area and lots of money has been spent n regeneration	None	0 1 
 770	LOCATION1 transit location is now a thriving area and lots of money has been spent n regeneration	None	0 1 2 
-771	It 's a myth that LOCATION1 general is cheap , prices have shot up due to the Olympics The words `` dont cost too much '' and `` London '' dont belong in the same sentence	None	5 6 
-771	It 's a myth that LOCATION1 price is cheap , prices have shot up due to the Olympics The words `` dont cost too much '' and `` London '' dont belong in the same sentence	Negative	5 6 
-771	It 's a myth that LOCATION1 safety is cheap , prices have shot up due to the Olympics The words `` dont cost too much '' and `` London '' dont belong in the same sentence	None	5 6 
-771	It 's a myth that LOCATION1 transit location is cheap , prices have shot up due to the Olympics The words `` dont cost too much '' and `` London '' dont belong in the same sentence	None	5 6 7 
+771	It 's a myth that LOCATION1 general is cheap , prices have shot up due to the Olympics The words `` dont cost too much `` and `` London `` dont belong in the same sentence	None	5 6 
+771	It 's a myth that LOCATION1 price is cheap , prices have shot up due to the Olympics The words `` dont cost too much `` and `` London `` dont belong in the same sentence	Negative	5 6 
+771	It 's a myth that LOCATION1 safety is cheap , prices have shot up due to the Olympics The words `` dont cost too much `` and `` London `` dont belong in the same sentence	None	5 6 
+771	It 's a myth that LOCATION1 transit location is cheap , prices have shot up due to the Olympics The words `` dont cost too much `` and `` London `` dont belong in the same sentence	None	5 6 7 
 772	LOCATION1 general is the nearest station	None	0 1 
 772	LOCATION1 price is the nearest station	None	0 1 
 772	LOCATION1 safety is the nearest station	None	0 1 
@@ -6259,10 +6259,10 @@ id	sentence1	label	positions
 1329	I would n't live in LOCATION1 ( Too dangerous - it 's way above the Met average for all types of crime ) or LOCATION2 price - which is both expensive and well above the Met average for Burglary and Robbery	Negative	24 25 
 1329	I would n't live in LOCATION1 ( Too dangerous - it 's way above the Met average for all types of crime ) or LOCATION2 safety - which is both expensive and well above the Met average for Burglary and Robbery	Negative	24 25 
 1329	I would n't live in LOCATION1 ( Too dangerous - it 's way above the Met average for all types of crime ) or LOCATION2 transit location - which is both expensive and well above the Met average for Burglary and Robbery	None	24 25 26 
-1330	LOCATION1 is beautiful and you will be highly privileged to live there You 'll be fine LOCATION2 general has more restaurants and cafes and has more of an `` urban town '' feel but the three are very close	None	16 17 
-1330	LOCATION1 is beautiful and you will be highly privileged to live there You 'll be fine LOCATION2 price has more restaurants and cafes and has more of an `` urban town '' feel but the three are very close	None	16 17 
-1330	LOCATION1 is beautiful and you will be highly privileged to live there You 'll be fine LOCATION2 safety has more restaurants and cafes and has more of an `` urban town '' feel but the three are very close	None	16 17 
-1330	LOCATION1 is beautiful and you will be highly privileged to live there You 'll be fine LOCATION2 transit location has more restaurants and cafes and has more of an `` urban town '' feel but the three are very close	None	16 17 18 
+1330	LOCATION1 is beautiful and you will be highly privileged to live there You 'll be fine LOCATION2 general has more restaurants and cafes and has more of an `` urban town `` feel but the three are very close	None	16 17 
+1330	LOCATION1 is beautiful and you will be highly privileged to live there You 'll be fine LOCATION2 price has more restaurants and cafes and has more of an `` urban town `` feel but the three are very close	None	16 17 
+1330	LOCATION1 is beautiful and you will be highly privileged to live there You 'll be fine LOCATION2 safety has more restaurants and cafes and has more of an `` urban town `` feel but the three are very close	None	16 17 
+1330	LOCATION1 is beautiful and you will be highly privileged to live there You 'll be fine LOCATION2 transit location has more restaurants and cafes and has more of an `` urban town `` feel but the three are very close	None	16 17 18 
 1331	Also the areas around LOCATION1 and LOCATION2 general were quite nice	Positive	6 7 
 1331	Also the areas around LOCATION1 and LOCATION2 price were quite nice	None	6 7 
 1331	Also the areas around LOCATION1 and LOCATION2 safety were quite nice	None	6 7 
