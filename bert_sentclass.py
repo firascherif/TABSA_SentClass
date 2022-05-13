@@ -37,8 +37,8 @@ def arg_parser():
 args = arg_parser()
 
 word_to_idx = {"None" : 0, "Positive" : 1, "Negative" : 2}
-data_dir = "data/sentihood/bert-sentclass/"
-data = pd.read_csv(os.path.join(data_dir, "train_QA_M.tsv"), sep="\t")
+data_dir = "data/sentihood/bert-sentclass-processed/"
+data = pd.read_csv(os.path.join(data_dir, "processed_train_QA_M.tsv"), sep="\t")
 test_data = pd.read_csv(os.path.join(data_dir, "test_QA_M.tsv"), sep="\t")
 
 test_data["label"] = test_data.label.map(word_to_idx)

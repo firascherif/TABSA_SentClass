@@ -7,7 +7,7 @@ from sklearn import metrics
 
 
 def get_y_true():
-    true_data_file = "data/sentihood/bert-sentclass/test_QA_M.tsv"
+    true_data_file = "data/sentihood/bert-sentclass-processed/processed_test_QA_M.tsv"
 
     df = pd.read_csv(true_data_file,sep='\t')
     y_true = []
