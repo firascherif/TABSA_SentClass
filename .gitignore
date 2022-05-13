@@ -1,0 +1,6 @@
+# Macbook files
+.vscode
+.DS_Store
+
+# checkpoint files
+results/*.pth
