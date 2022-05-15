@@ -48,6 +48,12 @@ data["label"] = data.label.map(word_to_idx)
 
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 
+# Add special tokens
+special_tokens = {'additional_special_tokens': ['[SEP1]', '[SEP2]']}
+tokenizer.add_special_tokens(special_tokens_dict=special_tokens)
+
+#model.resize_token_embeddings(tokenizer_default.vocab_size)
+
 # input_ids = []
 # attention_masks = []
 # for sentence in sentences:
@@ -75,11 +81,11 @@ class GPReviewDataset(Dataset):
         target = self.targets[item]
 
         encoding = self.tokenizer.encode_plus(review,
-                                            add_special_tokens=True,
-                                            max_length=self.max_len,
+                                            add_special_tokens=True, # Add [CLS] and [SEP]
+                                            max_length=self.max_len, # maximum length of a sentence
                                             return_token_type_ids=False,
-                                            pad_to_max_length=True,
-                                            return_attention_mask=True,
+                                            pad_to_max_length=True, # Add [PAD]s
+                                            return_attention_mask=True, # Generate the attention mask
                                             return_tensors='pt',
                                             )
 
