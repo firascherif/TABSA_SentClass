@@ -49,7 +49,7 @@ data["label"] = data.label.map(word_to_idx)
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 
 # Add special tokens
-special_tokens = {'additional_special_tokens': ['[SEP1]', '[SEP2]']}
+special_tokens = {'additional_special_tokens': ['LOCATION1', 'LOCATION2']}
 tokenizer.add_special_tokens(special_tokens_dict=special_tokens)
 
 #model.resize_token_embeddings(tokenizer_default.vocab_size)

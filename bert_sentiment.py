@@ -9,6 +9,7 @@ class SentimentClassifier(nn.Module):
     super(SentimentClassifier, self).__init__()
 
     self.bert = BertForSequenceClassification.from_pretrained("bert-base-uncased", num_labels = 3)
+    self.bert.resize_token_embeddings(30524) #tokenizer vocab len:  30524 (added for LOCATION1 AND LOCATION2)
 
   def forward(self, input_ids, attention_mask, label_ids):
 
